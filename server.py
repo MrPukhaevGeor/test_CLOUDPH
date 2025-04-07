@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return "Привет от приложения harlok1777"
+    return "Здравствуйте,Мария Дмитриевна!"
 
 
 if __name__ == '__main__':
